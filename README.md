@@ -38,7 +38,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@eswar-janjanam] - feel free to contact me!
+Created by [@eswar-janjanam](https://github.com/eswar-janjanam) - feel free to contact me!
 
 
 <!-- Optional -->
